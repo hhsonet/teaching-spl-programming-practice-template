@@ -10,7 +10,7 @@ Welcome to my programming practice repository!
 - **Section:**
 - **Course:** CSE 1112
 - **Course Title:** Structured Programming Language Laboratory
-- **Semester:**
+- **Trimester:**
 - **Instructor:**
 
 ## About This Repository
